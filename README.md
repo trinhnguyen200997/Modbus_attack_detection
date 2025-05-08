@@ -5,4 +5,5 @@ Welcome to my portfolio! I am Trinh Nguyen, currently a Data Analytics and AI gr
 Dataset: CIC APT IIOT 2024
 
 
-In order to run the model, first upload the pre-processed file into your preferred environment (like colab)
+In order to run the model, first upload the pre-processed file into your preferred environment (like colab).
+Here is the link to download pre-processed file: https://drive.google.com/drive/folders/1tDNZ59HQezE4vgzW4zoEFh2e_fK3_IPw?usp=sharing
