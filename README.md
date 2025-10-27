@@ -7,4 +7,6 @@ Dataset: CIC APT IIOT 2024
 
 In order to run the model, first upload the pre-processed file into your preferred environment (like colab).
 Here is the link to download pre-processed file: https://drive.google.com/drive/folders/1tDNZ59HQezE4vgzW4zoEFh2e_fK3_IPw?usp=sharing
-P/S the packages also include my auithored paper, which is accepted to Cyber RCI 2025 Conferene in Ireland. The other pdf version name" Modbus detection is a brief presentation of this project
+
+
+P/S: the packages also include my auithored paper, which is accepted to Cyber RCI 2025 Conferene in Ireland. The other pdf version name" Modbus detection is a brief presentation of this project
